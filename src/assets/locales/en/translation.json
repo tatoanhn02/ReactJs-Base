@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome!",
+  "button.sign_out": "Sign out",
+  "button.sign_in": "Login",
+  "label.sign_in": "Sign in to your account",
+  "checkbox.remember_me": "Remember me",
+  "button.forgot_password": "Forgot your password?",
+  "label.email_address": "Email address",
+  "label.password": "Password"
+  
+}

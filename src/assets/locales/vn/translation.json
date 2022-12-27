@@ -1,0 +1,10 @@
+{
+  "welcome": "Xin chào!",
+  "button.sign_out": "Đăng xuất",
+  "button.sign_in": "Đăng nhập",
+  "label.sign_in": "Đăng nhập vào tài khoản của bạn",
+  "checkbox.remember_me": "Nhớ mật khẩu",
+  "button.forgot_password": "Quên mật khẩu?",
+  "label.email_address": "Địa chỉ email",
+  "label.password": "Mật khẩu"
+}
